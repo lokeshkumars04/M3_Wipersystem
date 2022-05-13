@@ -1,9 +1,11 @@
 # ENGINE ON STATE
-![image](https://user-images.githubusercontent.com/102310653/168247888-abb86faf-aafc-4aba-af3d-7a6eb9b8578d.png)
+![image](https://user-images.githubusercontent.com/102310653/168248549-93ff1317-8219-4a6b-a915-79fd89687045.png)
+
 
 
 # WIPER SPEED IS LOW
-![image](https://user-images.githubusercontent.com/102310653/168247963-6ba7439f-3797-4c78-9929-c1c0af59d726.png)
+![image](https://user-images.githubusercontent.com/102310653/168248609-26496f8c-f866-40bf-bdd0-ad4ab658d335.png)
+
 
 
 # WIPER SPEED IS MODERATE
