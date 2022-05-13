@@ -10,3 +10,5 @@
 # Build on Linux
 [![Build-Linux CI](https://github.com/lokeshkumars04/M3_Wipersystem/actions/workflows/Build%20on%20linux.yml/badge.svg)](https://github.com/lokeshkumars04/M3_Wipersystem/actions/workflows/Build%20on%20linux.yml)
 
+# Cpp check analaysis
+[![Cppcheck Analysis](https://github.com/lokeshkumars04/M3_Wipersystem/actions/workflows/CppCheck%20Analysis.yml/badge.svg)](https://github.com/lokeshkumars04/M3_Wipersystem/actions/workflows/CppCheck%20Analysis.yml)
